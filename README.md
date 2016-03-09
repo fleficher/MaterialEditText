@@ -69,21 +69,21 @@ AppCompat v21 makes it easy to use Material Design EditText in our apps, but it'
 ## Download
 
 Eclipse:
-[MaterialEditText-2.1.4.aar](https://github.com/rengwuxian/MaterialEditText/releases/download/2.1.4/MaterialEditText-2.1.4.aar)
+[MaterialEditText-2.1.4.aar](https://bintray.com/artifact/download/fleficher/maven/com/fleficher/materialedittext/library/2.1.4/library-2.1.4.aar)
 
 gradle:
 
 ```groovy
-compile 'com.rengwuxian.materialedittext:library:2.1.4'
+compile 'com.fleficher.materialedittext:library:2.1.4'
 ```
 
 Maven:
 ```xml
 <dependency>
-  <groupId>com.rengwuxian.materialedittext</groupId>
+  <groupId>com.fleficher.materialedittext</groupId>
   <artifactId>library</artifactId>
   <version>2.1.4</version>
-  <type>aar</type>
+  <type>pom</type>
 </dependency>
 ```
 
@@ -91,9 +91,6 @@ Maven:
 
 See on [Wiki Page](https://github.com/rengwuxian/MaterialEditText/wiki) or [中文看这里](http://www.rengwuxian.com/post/materialedittext)
 
-## Thanks to
-
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids/)
 
 ## License
 
